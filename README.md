@@ -92,7 +92,7 @@ python3 /path/to/terminal_splash.py
 
 ## Screenshots
 
-*(Add screenshots here when you have them)*
+<img width="1918" height="1043" alt="terminal_splash_screen" src="https://github.com/user-attachments/assets/0e956ed0-3eeb-49c0-bb8b-585a3fcd1f79" />
 
 ## Contributing
 
